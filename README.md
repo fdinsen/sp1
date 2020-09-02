@@ -12,7 +12,8 @@ Tuesday/customerProj
 Onsdags opgaven findes 
 Wednesday/rest1
 
-Torsdags opgaven er committed men jeg glemte at fjerne .git mappen fra projektet, og jeg kan ikke finde ud af hvordan jeg får github til at opdage indholdet af mappen.
+Torsdags opgaven findes
+Thursday/
 
 Fredags opgaven findes
 Friday/
